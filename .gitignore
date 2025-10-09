@@ -1,2 +1,10 @@
+#Ignora arquivos auxiliares da pasta Capítulos
+capitulos/*.aux
+
+#Ignora arquivos auxiliares da pasta figuras
+figuras/*.eps
+
+# Ignora todos arquivos que começam com main com exceção do main.tex e main.bib
 main.*
 !main.tex
+!main.bib
