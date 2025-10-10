@@ -1,3 +1,6 @@
+# Ignora arquivo auxiliares da compilação
+pdfa.xmpi
+
 #Ignora arquivos auxiliares da pasta Capítulos
 capitulos/*.aux
 
